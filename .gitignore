@@ -1,0 +1,15 @@
+# 临时文件
+*.tmp
+*.bak
+*.bak2
+*.bak3
+*.bak4
+*.log
+
+# 大文件（MOD 数据如需备份，用 release 附件或单独存放）
+*.tar.gz
+*.zip
+
+# 系统文件
+Thumbs.db
+.DS_Store
